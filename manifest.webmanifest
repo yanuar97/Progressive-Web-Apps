@@ -1,0 +1,17 @@
+{
+  "short_name": "jogja",
+  "name": "jogjaRockarta",
+  "icons": [
+    {
+      "src": "icon/favicon.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    }
+    
+  ],
+  "start_url": "/MyWebsite/public/index.html",
+  "background_color": "#3367D6",
+  "display": "fullscreen",
+  "scope": "/./",
+  "theme_color": "#3367D6"
+}
